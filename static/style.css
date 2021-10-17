@@ -1,0 +1,40 @@
+body{
+  background-color:#c3c0d6 !important;
+  color: black !important;
+  font-family: 'Dosis', sans-serif !important;
+  /*Noto sans thai*/
+}
+
+.navbar{
+  padding: 0em;
+  margin: 0em;
+  background-color: #4f4e59;
+  box-shadow: 1em;
+}
+
+.cardbox{
+  padding: 1em;
+  margin: 1em;
+  color: black;
+  box-shadow: 1em;
+}
+
+.section{
+  padding: 1em;
+  max-height: 100%;
+}
+
+.btn-color{
+  background-color: #66D7A0 !important;
+}
+
+.logopic{
+  width: 5em;
+  height: 5em;
+}
+
+#paper{
+  background-color: #ffffaa83;
+  margin: 1em;
+  padding: 1em;
+}
